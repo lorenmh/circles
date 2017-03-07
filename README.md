@@ -1,4 +1,6 @@
 # Circles w/ Drag and Drop
+Open index.html
+
 Input a number at the top to specify the number of circles you would like
 created.
 
